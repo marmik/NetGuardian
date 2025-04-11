@@ -1,0 +1,17 @@
+ultralytics
+optuna
+opencv-python
+tensorrt
+torch
+numpy
+scipy
+matplotlib
+pandas
+seaborn
+scikit-learn
+pyyaml
+onnx
+onnxruntime
+tqdm
+pycuda
+cython
